@@ -12,8 +12,7 @@ This project demonstrates a simple LED blinking simulation using Arduino and Tin
 - Jumper wires
 
 ## Circuit Diagram
-![CIRCUIT_DIAGRAM](https://github.com/user-attachments/assets/80934f9e-62c9-4ce9-9c19-969049a823dc)
-
+![CIRCUIT_DIAGRAM](https://github.com/user-attachments/assets/3efdd76b-f3c7-40f2-9dc5-685e875b987e)
 
 ## Code
 The Arduino code for this project is as follows:
